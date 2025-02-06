@@ -1,4 +1,5 @@
-﻿using System;
+﻿// A simple calculator
+using System;
 using System.Collections;
 using System.Runtime.CompilerServices;
 using System.Runtime.InteropServices;
